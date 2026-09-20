@@ -1,0 +1,4 @@
+employeeId,firstName,lastName,displayName,email,department,jobTitle,managerId,location,hireDate,employmentStatus,employeeType,costCenter
+E1001,Ava,Brooks,Ava Brooks,ava.brooks@iamlab.local,Finance,Financial Analyst,E1003,Atlanta,20260105,Active,Employee,CC100
+E1002,Marcus,Reed,Marcus Reed,marcus.reed@iamlab.local,IT,Systems Administrator,E1003,Atlanta,20250310,Active,Employee,CC200
+E1003,Priya,Shah,Priya Shah,priya.shah@iamlab.local,Operations,Director of Operations,,Atlanta,20230612,Active,Employee,CC300
