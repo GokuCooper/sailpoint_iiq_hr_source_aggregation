@@ -538,6 +538,3 @@ sailpoint_iiq_hr_source_aggregation/
 ```
 
 *Built as part of the IAM Engineer Mentorship Program, Week 5. This is a lab environment with test data only.*
-#   s a i l p o i n t _ i i q _ h r _ s o u r c e _ a g g r e g a t i o n  
- #   s a i l p o i n t _ i i q _ h r _ s o u r c e _ a g g r e g a t i o n  
- 
