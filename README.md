@@ -477,8 +477,6 @@ An aggregation reads accounts from a source and correlates them to identities. A
 >
 > Diagnosed an empty account schema, a task naming rule, a username and correlation design flaw, and a manager relationship that returned Success but stayed blank. Traced the last one to a missing Manager identity attribute source by ruling out data, correlation, refresh, and cached configuration in order, then confirming against vendor documentation.
 
-*Only add a percentage or ticket reduction number if you have a measured manual baseline to compare against.*
-
 ---
 
 ## Repository layout
